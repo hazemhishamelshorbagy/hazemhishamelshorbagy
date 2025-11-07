@@ -1,38 +1,24 @@
-# Hi, I’m Hazem 👋  
+# 💫 About Me:
+Senior Frontend Engineer with 𝟳 𝘆𝗲𝗮𝗿𝘀 of experience, including 𝟯 𝘆𝗲𝗮𝗿𝘀 specializing in 𝗳𝗶𝗻𝘁𝗲𝗰𝗵 and 𝗱𝗶𝗴𝗶𝘁𝗮𝗹 𝗯𝗮𝗻𝗸𝗶𝗻𝗴 𝘀𝗼𝗹𝘂𝘁𝗶𝗼𝗻𝘀. I build secure, high-performance applications that handle complex financial transactions and sensitive user data.<br><br>My career path has taken me from building robust frontend foundations across various domains to focusing exclusively on the unique challenges of financial technology—security, compliance, and real-time data integrity.<br><br>🔐 𝗙𝗶𝗻𝘁𝗲𝗰𝗵 𝗘𝘅𝗽𝗲𝗿𝘁𝗶𝘀𝗲 (𝟯 𝗬𝗲𝗮𝗿𝘀):<br>• Digital Banking Platforms & Financial Dashboards<br>• Secure Payment Processing & Transaction Systems<br>• Financial Data Visualization & Real-time Updates<br>• Compliance-Aware Development & Data Protection<br><br>💻 𝗧𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝗙𝗼𝘂𝗻𝗱𝗮𝘁𝗶𝗼𝗻 (𝟳 𝗬𝗲𝗮𝗿𝘀):<br>React, Next.js, TypeScript, TailwindCSS, State Management, Performance Optimization<br><br>I'm passionate about creating 𝙛𝙞𝙣𝙖𝙣𝙘𝙞𝙖𝙡 𝙥𝙧𝙤𝙙𝙪𝙘𝙩𝙨 that are not just functional, but truly secure and user-friendly. Open to senior frontend roles at innovative fintech companies.
 
-**Senior Frontend Engineer** — React, Next.js, Angular, TypeScript  
 
-I build **fast, accessible, and high-performing UIs** that scale and convert.  
-I combine **performance, accessibility, modern UI design, and AI integration** to deliver frontends that feel alive.  
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/hazem.hisham.elshorbagy) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hazem.hisham.sayed) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hazemhishamelshorbagy) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@hazem-ai) 
 
----
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white) ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Esbuild](https://img.shields.io/badge/esbuild-%23FFCF00.svg?style=for-the-badge&logo=esbuild&logoColor=black) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=hazemhishamelshorbagy&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=hazemhishamelshorbagy&theme=highcontrast&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hazemhishamelshorbagy&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🚀 What I Do
-- Frontend apps with **React / Next.js / Angular & TypeScript**  
-- **Core Web Vitals optimization** (LCP, CLS, INP)  
-- Accessibility (WCAG) & responsive design  
-- **Reusable design systems** (Tailwind, shadcn/ui, Storybook)  
-- **UI motion & micro-interactions** (Framer Motion)  
-- AI-powered features (OpenAI APIs, automation tools like n8n & Make.com)  
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-
-## 🛠 Tech Stack
-React · Next.js · Angular · TypeScript · JavaScript (ES6+)  
-Tailwind CSS · shadcn/ui · Framer Motion · Storybook  
-Jest · React Testing Library · Playwright  
-REST · GraphQL · CI/CD (GitHub Actions, Vercel)  
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=hazemhishamelshorbagy&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=hazemhishamelshorbagy&icon=4&color=1)](https://visitcount.itsvg.in)
 
-## 📊 Featured Work
-- **PDP Performance Demo** → Optimized Next.js PDP with Lighthouse ≥ 90  
-- **Finance Analytics Dashboard** → Virtualized tables + charts, <200ms filters  
-- **Design System** → Component library with Storybook docs  
-- **AI Integration UI** → Dashboards enhanced with AI-driven workflows  
-
----
-
-## 📩 Let’s Connect
-I’m open to **remote freelance or part-time opportunities (EU/UK/GCC/US)**.  
-👉 [LinkedIn](https://www.linkedin.com/in/hazemhishamelshorbagy) · [GitHub](https://github.com/hazemhishamelshorbagy) · Email: hazem.frontend@gmail.com
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
