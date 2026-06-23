@@ -128,7 +128,7 @@ Build only what delivers value.
 
 ![Hazem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hazemhishamelshorbagy&show_icons=true&theme=highcontrast)
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=hazemhishamelshorbagy&theme=highcontrast)
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hazemhishamelshorbagy&layout=compact&theme=highcontrast)
 ---
