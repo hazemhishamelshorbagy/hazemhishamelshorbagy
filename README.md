@@ -1,47 +1,158 @@
-# 👋 I'm Hazem Hisham 
+لمقترح
+# 👋 Hi, I'm Hazem Hisham
 
-> **Senior Software Engineer | Frontend Architect**
-> 8+ years of crafting high-performance, scalable web ecosystems. I specialize in turning complex requirements into modular, maintainable codebases.
-
----
-
-### 💻 My Core Philosophy
-- **Scalability First:** I build systems using Monorepos (Nx/Turbo) and Micro-frontends to ensure teams can scale without friction.
-- **Type Safety:** Deep advocate for strict TypeScript and Zod to eliminate runtime errors before they happen.
-- **Performance:** Obsessed with Core Web Vitals, tree-shaking, and efficient rendering patterns.
-- **Security by Design:** Implementing robust middleware and authentication patterns to protect user data at the edge.
+> **Senior Software Engineer | FinTech Engineer in Progress**
+>
+> Building scalable digital products with a growing focus on Backend Engineering, System Design, Distributed Systems, and Financial Technology.
 
 ---
 
-### 🛠️ Technical Arsenal
+## 🚀 Current Mission
 
-| Layer | Tools of Choice |
-| :--- | :--- |
-| **Frontend** | Next.js, React, TypeScript, Tailwind CSS, Framer Motion |
-| **State & Data** | TanStack Query, Redux Toolkit, Prisma, PostgreSQL |
-| **Architecture** | Nx Monorepos, Module Federation, Design Systems (CVA/Shadcn) |
-| **DevOps & CI/CD** | GitHub Actions, Docker, Vercel, AWS, CodeQL |
+I'm currently on a journey to become an **End-to-End FinTech Engineer**, expanding beyond frontend development into:
 
----
+* Backend Engineering
+* Database Design
+* System Architecture
+* Distributed Systems
+* Financial Systems & Banking Workflows
 
-### 🏗️ Selected Work & Contributions
-*Below are a few highlights of my technical focus areas:*
-
-- 🏦 **Financial Systems:** Building production-grade FinTech dashboards with complex data-grid requirements.
-- ⛓️ **Web3 Integration:** Bridging traditional frontends with blockchain protocols (Solana/Ethereum).
-- 🧩 **Component Libraries:** Developing internal Design Systems to unify UI/UX across multiple company products.
-- 🤖 **Automation:** Leveraging AI Agents and custom scripts to optimize developer workflows.
+My primary long-term goal is to design and build production-grade financial platforms from the database layer to the user experience.
 
 ---
 
-### 📊 Vital Signs
-![](https://github-readme-stats.vercel.app/api?username=hazemhishamelshorbagy&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=hazemhishamelshorbagy&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hazemhishamelshorbagy&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 🏦 FinTech Engineering Roadmap
 
+Currently focusing on:
+
+### Core Engineering
+
+* TypeScript
+* Node.js
+* NestJS
+* PostgreSQL
+* REST APIs
+* Authentication & Authorization
+
+### System Design
+
+* Scalability
+* Load Balancing
+* Caching Strategies
+* CDN Architecture
+* Database Scaling
+* Event-Driven Systems
+
+### FinTech Domain
+
+* Accounts
+* Wallets
+* Ledger Systems
+* Transfers
+* Notifications
+* Payment Flows
+* Banking Architecture
 
 ---
 
-### 📫 Let's Collaborate
-- **LinkedIn:** https://www.linkedin.com/in/hazemhishamelshorbagy
-- **Status:** Currently exploring advanced software architecture and distributed systems.
+## 💻 Technical Stack
+
+| Area             | Technologies                                     |
+| ---------------- | ------------------------------------------------ |
+| Frontend         | Next.js, React, TypeScript, Tailwind CSS         |
+| Backend          | Node.js, NestJS                                  |
+| Database         | PostgreSQL, Prisma                               |
+| Architecture     | Micro Frontends, Nx Monorepos, Module Federation |
+| State Management | TanStack Query, Redux Toolkit                    |
+| DevOps           | Docker, GitHub Actions, AWS, Vercel              |
+
+---
+
+## 🏗️ Featured Project
+
+### 🏦 Mini Digital Bank (In Progress)
+
+A production-inspired banking platform designed to understand financial systems end-to-end.
+
+Features:
+
+* Account Management
+* Wallet System
+* Balance Tracking
+* Money Transfers
+* Notifications
+* Authentication & Authorization
+* Transaction History
+
+Focus Areas:
+
+* Database Design
+* System Design
+* Backend Architecture
+* FinTech Business Flows
+
+---
+
+## 📚 Currently Learning
+
+* System Design Fundamentals
+* Distributed Systems
+* Backend Engineering
+* Financial Technology Architecture
+* Database Optimization
+* Event-Driven Design
+
+---
+
+## 📈 Engineering Principles
+
+### Scalability First
+
+Design systems that grow without requiring major rewrites.
+
+### Business Understanding
+
+Engineering decisions should align with business requirements.
+
+### Type Safety
+
+Eliminate classes of bugs before production.
+
+### Simplicity Over Complexity
+
+Build only what delivers value.
+
+---
+
+## 📊 GitHub Stats
+
+(ضع الـ stats الحالية كما هي)
+
+---
+
+## 🌍 Career Vision
+
+My goal is to become a software engineer capable of designing and building complete financial systems:
+
+* Frontend
+* Backend
+* Database
+* Infrastructure
+* FinTech Workflows
+
+and eventually contribute to large-scale digital banking products and financial platforms.
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn: [www.linkedin.com/in/hazemhishamelshorbagy](http://www.linkedin.com/in/hazemhishamelshorbagy)
+
+---
+
+### Current Status
+
+🚀 Building the foundations to become a FinTech Architect through hands-on projects, system design, and backend engineering.
+
+---
+
