@@ -1,4 +1,4 @@
-لمقترح
+
 # 👋 Hi, I'm Hazem Hisham
 
 > **Senior Software Engineer | FinTech Engineer in Progress**
@@ -126,8 +126,11 @@ Build only what delivers value.
 
 ## 📊 GitHub Stats
 
-(ضع الـ stats الحالية كما هي)
+![Hazem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hazemhishamelshorbagy&show_icons=true&theme=highcontrast)
 
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=hazemhishamelshorbagy&theme=highcontrast)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hazemhishamelshorbagy&layout=compact&theme=highcontrast)
 ---
 
 ## 🌍 Career Vision
